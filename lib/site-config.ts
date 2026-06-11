@@ -73,7 +73,7 @@ export const siteConfig = {
   },
 
   // SEO / URL de prod (à mettre à jour après déploiement Vercel).
-  url: "https://aster-crash-test.vercel.app",
+  url: "https://aster-zeta-red.vercel.app",
 } as const;
 
 export type SiteConfig = typeof siteConfig;

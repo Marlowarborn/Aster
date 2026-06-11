@@ -25,12 +25,12 @@ export const siteConfig = {
 
   party: {
     date: "2026-06-19", // jour de l'event (même que la sortie)
-    time: "", // heure — à remplir
-    venue: "", // lieu — à remplir
-    address: "",
-    city: "",
+    time: "20:00", // heure
+    venue: "Le Scandale", // lieu
+    address: "68 rue Blanche, 75009",
+    city: "Paris",
     ticketsUrl: "", // billetterie — à remplir
-    mapUrl: "",
+    mapUrl: "https://www.google.com/maps/search/?api=1&query=Le+Scandale%2C+68+rue+Blanche%2C+75009+Paris",
   },
 
   // Liens streaming — à remplir. Vide => bouton masqué.
@@ -46,7 +46,7 @@ export const siteConfig = {
 
   // Réseaux — à remplir. Vide => icône masquée.
   socials: {
-    instagram: "",
+    instagram: "https://www.instagram.com/a_s.t.e_r/",
     tiktok: "",
     youtube: "",
     facebook: "",

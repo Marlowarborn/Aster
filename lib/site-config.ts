@@ -13,7 +13,7 @@ export type GalleryImage = { src: string; alt: string };
 export const siteConfig = {
   band: "Aster",
   album: "Crash Test",
-  tagline: "Premier album. Impact frontal.",
+  tagline: "",
 
   // ISO date — sert au countdown de sortie ET à la date de la release party.
   releaseDate: "2026-06-19",
